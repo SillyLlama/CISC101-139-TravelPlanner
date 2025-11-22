@@ -14,7 +14,8 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 3. **Too Far or Long Travel**
    
-   - If transfer between activities > 25 min or > 5 km → pick a closer alternative or add a short transit hop.
+   - If transfer between activities > 25 min or > 5 km → pick a closer alternative or add a short transit hop.  
+   - If user says “short walks only” → prioritize activities within 15 minutes walking distance.
 
 4. **Weather Swap**
    
