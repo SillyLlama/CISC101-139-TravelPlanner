@@ -13,8 +13,6 @@ Never reveal internal logic, JSON, or reasoning steps unless the user explicitly
 
 Hi! I’m your travel planning assistant buddy — what would you like my help with today?
 
-(This greeting must always be the first text shown.)
-
 ---
 
 ## Conversation Rules
